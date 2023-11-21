@@ -2,6 +2,8 @@
 
 Welcome to the Grocery Application! This is a user-friendly and easy-to-use landing page built with React, Material UI, and Tailwind CSS.
 
+##Link: https://naanmuthalvan-cb4-3.netlify.app/
+
 ## Sample Page
 
 ![grocery_mockup](https://github.com/ahmod001/grocery/assets/121039395/f8ff25cb-4710-49f3-9ce8-712ec325200e)
