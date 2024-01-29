@@ -7,7 +7,7 @@ import PageNotFound from "./Components/PageNotFound/PageNotFound";
 import About from "./Components/About/About";
 import Login from "./Components/Authantication/Login/Login";
 import ProtectedRoute from "./Components/ProtectedRoute/ProtectedRoute";
-import Cart from "./Components/Cart/Cart";
+import Cart from "./Components/Cart/Cart"
 
 function App() {
   return (
